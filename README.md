@@ -1,5 +1,6 @@
-# app-cine
-# 1. Introducción El sistema de gestión de entradas al cine es un software que permitirá a los usuarios comprar entradas de cine en línea, así como administrar y controlar el acceso a las salas de cine. El sistema estará disponible en línea y permitirá a los usuarios comprar y reservar sus entradas desde cualquier lugar con conexión a Internet.
+# 1. Introducción
+
+## El sistema de gestión de entradas al cine es un software que permitirá a los usuarios comprar entradas de cine en línea, así como administrar y controlar el acceso a las salas de cine. El sistema estará disponible en línea y permitirá a los usuarios comprar y reservar sus entradas desde cualquier lugar con conexión a Internet.
 
 # 2. Requerimientos del sistema
 
@@ -42,7 +43,7 @@ El sistema de gestión de entradas al cine proporcionará a los usuarios una man
 # 5. Instalation
 Usar cualquier editor de texto (Visula Studio Code) y ejecutar los siguientes comandos:
 
-- crear una carpeta donde almacenaras el proyecto
+- Crear una carpeta donde almacenaras el proyecto
 - Clonar el repo en la carpeta creada
 ```bash
 git clone https://github.com/barnetche/app-cine.git
@@ -54,5 +55,7 @@ npm install
 - Una vez que hayas realizado los pasos anteriores, para poner en ejecucion la aplicacion ejecuta
 ```bash
 Heroku ps
+```
+```bash
 Heroku open
 ```
